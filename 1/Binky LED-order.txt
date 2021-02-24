@@ -1,0 +1,13 @@
+Order list for C:/Users/sudha/Documents/EAGLE/projects/Blink Board/Binky LED.sch
+Exported from EAGLE with DesignLink
+
+Quantity	Value	Package	Order code	Manufacturer	Manuf. Code	Availability	Price (from)	Description
+1	22uf	C0805	8126402	RUBYCON	25ML22MEFC5X5	649	5.14	RUBYCON - 25ML22MEFC5X5 - Electrolytic Capacitor, Miniature, 22 µF, 25 V, ML Series, ± 20%, Radial Leaded, 3000 hours @ 105°C
+1	0.01uf	C0805	2858886	BOURNS	EMI103T-RC	881	19.45	BOURNS - EMI103T-RC - Filter, EMI, T Network, 0.01uF, 0.05Ohm, 3 Pins
+1	LM555D	SO08	unknown					
+2	green	CHIPLED_0805	1202490	PRO POWER	100-30TG	5	4179.71	PRO POWER - 100-30TG - Wire, Solid, Wrapping, ETFE, Green, 30 AWG, 0.05 mm², 328 ft, 100 m
+1		R0805	unknown					
+1	100	R0805	1285916	LAPP KABEL	0047104	0	3794.01	LAPP KABEL - 0047104 - Wire, Stranded, Hook Up, Hi Temp, Silicone, Red, 24 AWG, 0.25 mm², 328 ft, 100 m
+1	1k	R0805	9356800	BOURNS	4609X-101-102LF	5811	16.86	BOURNS - 4609X-101-102LF - Fixed Network Resistor, 1 kohm, 4600X Series, 8 Elements, Bussed, SIP, 9 Pins
+1	100k	R0805	1571510	VISHAY	CCF60100KFKE36	140	10.64	VISHAY - CCF60100KFKE36 - METAL FILM RESISTOR, 100KOHM, 1W, 1%
+1	CR1220	CR1220-SMD	1650692	KEYSTONE	3000	31139	24.99	KEYSTONE - 3000 - Battery Contact, Coin Cell - 12mm, SMD, Phosphor Bronze
